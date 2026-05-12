@@ -1,3 +1,7 @@
+## 📝 Weekly Publishing Log
+
+8주 시간로그 데이터에서 "무한계획형 → 실행형" 전환 과정을 4부작으로 공개합니다.
+
 | 주차 | 발행일 | 글 | 한 줄 | 상태 |
   |------|--------|----|----|------|
   | W19 | 2026-05-11 | [Notion vs Obsidian 이사만 하다 인생 끝난다](https://velog.io/@youth6erry/Notion-vs-Obsidian-이사만-하다-인생-끝난다) |  | ✅ |
@@ -8,18 +12,3 @@
   **채널**
   - velog: [@youth6erry](https://velog.io/@youth6erry)
   - Threads: [@youth6erry](https://www.threads.com/@youth6erry)
-
-<!--
-**youth6erry/youth6erry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
